@@ -1,0 +1,2 @@
+# widic
+wifi directory hack
